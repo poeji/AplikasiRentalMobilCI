@@ -2,7 +2,7 @@
 Aplikasi Rental Mobil dengan Codeigniter 3
 
 Fitur:
-1. Login/Logout Admin
+1. Login/Logout Admin<br>
 2. Tambah Kendaraan
 3. Tambah Driver
 4. Tambah Merk Kendaraan
