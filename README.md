@@ -1,7 +1,7 @@
 # AplikasiRentalMobilCI
 Aplikasi Rental Mobil dengan Codeigniter 3
 
-Fitur:
+Fitur:<br>
 1. Login/Logout Admin<br>
 2. Tambah Kendaraan<br>
 3. Tambah Driver<br>
@@ -13,7 +13,7 @@ Fitur:
 # AplikasiRentalMobilCI
 Applications Car Rental with CodeIgniter 3
 
-features:
+Features:<br>
 1. Login / Logout Admin<br>
 2. Add Vehicle<br>
 3. Add Driver<br>
