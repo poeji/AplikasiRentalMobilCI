@@ -3,10 +3,10 @@ Aplikasi Rental Mobil dengan Codeigniter 3
 
 Fitur:
 1. Login/Logout Admin<br>
-2. Tambah Kendaraan
-3. Tambah Driver
-4. Tambah Merk Kendaraan
-5. Transaksi Peminjaman Kendaraan
+2. Tambah Kendaraan<br>
+3. Tambah Driver<br>
+4. Tambah Merk Kendaraan<br>
+5. Transaksi Peminjaman Kendaraan<br>
 6. Laporan Export PDF
 
 
@@ -14,9 +14,9 @@ Fitur:
 Applications Car Rental with CodeIgniter 3
 
 features:
-1. Login / Logout Admin
-2. Add Vehicle
-3. Add Driver
-4. Add Brand Vehicles
-5. Vehicle Loan Transaction
+1. Login / Logout Admin<br>
+2. Add Vehicle<br>
+3. Add Driver<br>
+4. Add Brand Vehicles<br>
+5. Vehicle Loan Transaction<br>
 6. Export Report PDF
