@@ -1,4 +1,4 @@
-# Aplikasi Rental Mobil CI dengan Codeigniter 3
+# Aplikasi Rental Mobil dengan Codeigniter 3
 Aplikasi Rental Mobil dengan Codeigniter 3
 
 Fitur:<br>
@@ -10,7 +10,7 @@ Fitur:<br>
 6. Laporan Export PDF
 
 
-# Aplikasi Rental Mobil CI with Codeigniter
+# Aplikasi Rental Mobil with Codeigniter 3
 Applications Car Rental with CodeIgniter 3
 
 Features:<br>
